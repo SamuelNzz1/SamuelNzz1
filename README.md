@@ -17,15 +17,18 @@ Sou estudante do curso técnico em Informática na Fundação Matias Machline, o
 
 ### Back End
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+
+### OBI
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
   
 
 ### Banco de Dados
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 ## 🌟 Mais sobre mim
-- 🌱 Atualmente estou aprendendo mais sobre back end: ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square), ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square), ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?, ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)logo=nestjs&logoColor=white&style=flat-square)
+- 🌱 Atualmente estou aprendendo mais sobre back end: ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+
 - 👯 Estou procurando colaborar em projetos de Front End e Full Stack.
 - 📫 Como me alcançar: samuel.newper@gmail.com
