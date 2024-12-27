@@ -1,7 +1,7 @@
 # Olá, eu sou Samuel Novais 👋
 
 ## 🎓 Sobre Mim
-Sou estudante do curso técnico em Informática na Fundação Matias Machline, onde estou adquirindo uma sólida base em diversas tecnologias e práticas de desenvolvimento de software.
+Sou técnico em Informática na Fundação Matias Machline, onde eu pude adquirir uma sólida base em diversas tecnologias e práticas de desenvolvimento de software.
 
 ## 🚀 Tecnologias
 
