@@ -35,4 +35,4 @@ Sou técnico em Informática na Fundação Matias Machline, onde eu pude adquiri
 - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
 
-- 📫 **Como me alcançar:** samuel.newper@gmail.com
+- 📫 **Como me alcançar:** samuel.devv1@gmail.com
