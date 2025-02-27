@@ -17,16 +17,22 @@ Sou técnico em Informática na Fundação Matias Machline, onde eu pude adquiri
 
 ### Back End
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+- ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+- ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+- ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
 ### OBI
 - ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
   
-
 ### Database
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+## 🎓 Atualmente Estudando
+- ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+- ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+- ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 
-- 📫 Como me alcançar: samuel.newper@gmail.com
+
+- 📫 **Como me alcançar:** samuel.newper@gmail.com
